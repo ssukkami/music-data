@@ -1,0 +1,120 @@
+{
+  "albums": [
+    {
+      "title": "Kiss Land",
+      "artist": "The Weeknd",
+      "year": 2013,
+      "genre": "R&B",
+      "cover_url": "https://i.pinimg.com/736x/ff/24/a8/ff24a8a89e7fa65b0850b4385cff8786.jpg",
+      "tracks": [
+        {
+          "title": "Belong To The World",
+          "duration": "05:07",
+          "file_url": "https://sefon.pro/search/?q=The%20Weeknd%20Belong%20To%20The%20World"
+        },
+        {
+          "title": "Professional",
+          "duration": "06:08",
+          "file_url": "https://sefon.pro/search/?q=The%20Weeknd%20Professional"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Belong To The World (Official Video)",
+          "url": "https://youtu.be/lYO77zNhWl4"
+        },
+        {
+          "title": "Kiss Land (Visualizer)",
+          "url": "https://music.youtube.com/watch?v=tcLr-GIJQfI"
+        }
+      ]
+    },
+    {
+      "title": "Ohms",
+      "artist": "Deftones",
+      "year": 2020,
+      "genre": "Alternative Metal",
+      "cover_url": "https://ru.pinterest.com/pin/1407443626787974/",
+      "tracks": [
+        {
+          "title": "Ohms",
+          "duration": "04:10",
+          "file_url": "https://sefon.pro/search/?q=Deftones%20Ohms"
+        },
+        {
+          "title": "Ceremony",
+          "duration": "03:47",
+          "file_url": "https://sefon.pro/search/?q=Deftones%20Ceremony"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Deftones - Ohms (Official Music Video)",
+          "url": "https://youtu.be/KUDbj0oeAj0"
+        },
+        {
+          "title": "Deftones - Ceremony (Official Video)",
+          "url": "https://youtu.be/Kbl0aSRzvKg"
+        }
+      ]
+    },
+    {
+      "title": "Adrenaline",
+      "artist": "Deftones",
+      "year": 1995,
+      "genre": "Alternative Metal",
+      "cover_url": "https://www.pinterest.com/pin/477311260530877469/",
+      "tracks": [
+        {
+          "title": "One Weak",
+          "duration": "04:29",
+          "file_url": "https://sefon.pro/search/?q=Deftones%20One%20Weak"
+        },
+        {
+          "title": "7 Words",
+          "duration": "03:43",
+          "file_url": "https://sefon.pro/search/?q=Deftones%207%20Words"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Deftones - One Weak (Official Video)",
+          "url": "https://www.youtube.com/watch?v=T-De_zAKxwU"
+        },
+        {
+          "title": "Deftones - 7 Words (Official Video)",
+          "url": "https://www.youtube.com/watch?v=Tu-P5IozdeI"
+        }
+      ]
+    },
+    {
+      "title": "The Marshall Mathers LP",
+      "artist": "Eminem",
+      "year": 2000,
+      "genre": "Hip-Hop / Rap",
+      "cover_url": "https://ru.pinterest.com/pin/296745062966611431/",
+      "tracks": [
+        {
+          "title": "Stan",
+          "duration": "06:44",
+          "file_url": "https://sefon.pro/search/?q=Stan"
+        },
+        {
+          "title": "Bitch Please II",
+          "duration": "04:24",
+          "file_url": "https://sefon.pro/search/?q=Bitch%20Please%20II"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Eminem - Stan (Official Video)",
+          "url": "https://www.youtube.com/watch?v=HIqQ0PfuPo8"
+        },
+        {
+          "title": "Eminem - Bitch Please II (Visualizer)",
+          "url": "https://www.youtube.com/watch?v=tEMA8GL-ArI"
+        }
+      ]
+    }
+  ]
+}
